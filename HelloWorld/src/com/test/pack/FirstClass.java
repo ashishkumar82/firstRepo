@@ -4,7 +4,7 @@
 package com.test.pack;
 
 /**
- * @author Ashish
+ * @author Author
  *
  */
 public class FirstClass {

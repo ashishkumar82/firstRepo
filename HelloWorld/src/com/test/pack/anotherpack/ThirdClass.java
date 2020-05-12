@@ -4,7 +4,7 @@
 package com.test.pack.anotherpack;
 
 /**
- * @author Ashish
+ * @author Author
  *
  */
 public class ThirdClass {
